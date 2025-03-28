@@ -1,0 +1,10 @@
+[package]
+name = "f90"
+version = "0.1.0"
+edition = "2024"
+license = "BSD2"
+publish = false
+
+[dependencies]
+pest = { version = "2.6" }
+pest_derive = { version = "2.6" }
